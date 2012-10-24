@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4287
+
+When you focus on a new word, all other occurrences of the word are lit up in red.
+
+If you move again but remain on the same word, the highlight is removed.  So e.g. I just hit Space when I want to undo the highlighting.
